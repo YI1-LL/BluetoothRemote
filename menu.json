@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "name": "蓝牙翻页器助手",
+      "items": [
+        {"name": "[0] 初始化 / 刷新菜单（首次先点我）", "action": "sh /mnt/us/extensions/BluetoothRemote/bin/menu_gen.sh", "exitmenu": true}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+   "key_brightness_up": [ 103, 311, 9, 309 ],
+   "key_brightness_down": [ 108, 10 ],
+   "key_next_page": [104, 106, 304, 306, 115, 4, 316, 312],
+   "key_prev_page": [109, 105, 305, 307, 114, 3, 310],
+   "key_wake": [ 1116, 1651, 3161, 308 ],
+   "key_warmth_up": [16],
+   "key_warmth_down": [17],
+   "key_open_close_backlight" : [314],
+   "key_open_close_sleep" : [],
+   "key_screenshot": [116],
+   "max_retry_cnt": 100,
+   "when_start_no_sleep": 0,
+   "mouse_wheel_1_page_or_0_brightness": 1
+}
